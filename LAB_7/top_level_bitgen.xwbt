@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\CECS 301\LABS\Lab 7 - CPU Execution Unit\more updated lab 7\CPU Ex\LAB_7\top_level.ncd
+OUTFILE=E:\CECS 301\LABS\Lab 7 - CPU Execution Unit\more updated lab 7\CPU Ex\LAB_7\top_level.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5fg320
+WORKINGDIR=E:\CECS 301\LABS\Lab 7 - CPU Execution Unit\more updated lab 7\CPU Ex\LAB_7
+LICENSE=WebPack
+USER_INFO=0_0_856
