@@ -1,4 +1,4 @@
-# Lab_7_CPU_Execution_Unit
+# Lab_6_CPU_Execution_Unit
 Project Overview:  
 CPU Execution Unit using Verilog.
   
