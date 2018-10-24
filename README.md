@@ -1,5 +1,5 @@
-# Lab_7_CPU_Execution_Unit
 Project Overview: 
+
 CPU Execution Unit using Verilog.
   
 In this project we connect the Integer Datapath (Developed in Lab_6) with two 16-bit registers (PC and IR), producing a CPU Execution Unit (CPU_EU) Verilog module. The registers are used to interface with memory. Besides the various control signals that are inputs to CPU_EU, the only outputs are the 16-bit ports (Address and D_out). The only data input is the 16-bit port D_in. The CPU_EU is then connected to the 256x16 memory (developed in Lab_4) by connecting busses between the two modules.   
